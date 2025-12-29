@@ -1,0 +1,5 @@
+{
+  "name": "Simulador INSS - Padrão CEBRASPE",
+  "description": "Um simulador interativo de questões para o concurso de Técnico do Seguro Social do INSS, seguindo o rigoroso padrão Certo/Errado da banca CEBRASPE com sistema de pontuação real (uma errada anula uma certa).",
+  "requestFramePermissions": []
+}
